@@ -25,10 +25,10 @@
     <created>2026-02-16</created>
     <license rdf:resource="https://spdx.org/licenses/Apache-2.0" />
     <name>Apache WSS4J</name>
-    <homepage rdf:resource="https://ws.apache.org/neethi/" />
+    <homepage rdf:resource="https://ws.apache.org/wss4j/" />
     <asfext:pmc rdf:resource="https://ws.apache.org" />
     <shortdesc>The Apache WSS4J project provides a Java implementation of the primary security standards for Web Services, namely the OASIS Web Services Security (WS-Security) specifications from the OASIS Web Services Security TC.</shortdesc>
-    <bug-database rdf:resource="https://issues.apache.org/jira/browse/WSS4J" />
+    <bug-database rdf:resource="https://issues.apache.org/jira/browse/WSS" />
     <mailing-list rdf:resource="https://ws.apache.org/wss4j/mailing-lists.html" />
     <download-page rdf:resource="https://ws.apache.org/wss4j/download.html" />
     <programming-language>Java</programming-language>
