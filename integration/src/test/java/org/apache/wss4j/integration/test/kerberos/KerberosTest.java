@@ -131,10 +131,6 @@ public class KerberosTest {
 
         kerbyServer.start();
 
-        if ("IBM Corporation".equals(System.getProperty("java.vendor"))) {
-            runTests = false;
-        }
-
         dbf = DocumentBuilderFactory.newInstance();
         dbf.setNamespaceAware(true);
         dbf.setIgnoringComments(false);
